@@ -7,7 +7,7 @@ Fußballschulen in München, Deutschland, sind ein Eckpfeiler in der Entwicklung
     href="https://munichkickers.de/"
     style="border-bottom: none; display: block; padding: 1em 0px; text-align: center;"
     target="_blank"
-    ><img style="border: 1px solid rgb(199, 199, 199); max-width: 900px;"
+    ><img style="border: 1px solid rgb(199, 199, 199); max-width: 450px;"
       alt=""
       border="0"
       data-original-height="800"
